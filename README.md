@@ -2,7 +2,7 @@
 
 
 ## **1. Methodology**
-<img src="https://labelyourdata.com/img/article-illustrations/neural_network_model_light.png" width="80%" height="80%">
+<img src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2014/01/Graphical_representation_of_sentiment_analysis_methodology.png" width="80%" height="80%">
 
 
 ## **2. Description**
