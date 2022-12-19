@@ -11,7 +11,7 @@
  It uses [streamlit](https://streamlit.io) library for creating this sentiment analyzer tool on a platform like web.
 
 ## **3. Live link**
-Link: https://share.streamlit.io/rahulgoy/movie-recommendation-systtem/app.py
+Link: https://rahulgoy-sentiment-analysis-sentiment-analyzer-a83cbh.streamlit.app/
 
 
 ## **4. Screenshot of the Interface**
